@@ -23,9 +23,11 @@ todo
 
 ## 技术选型
 
-数据库
+数据库：mysql
 
-* mysql
+前端：bootstrap
+
+版本工具：svn、git
 
 后端
 
@@ -33,15 +35,6 @@ todo
 * Spring
 * SpringMVC
 * Mybatis
-
-前端
-
-* bootstrap
-
-版本工具
-
-* svn
-* git
 
 ## 友情赞助
 
