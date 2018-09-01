@@ -21,6 +21,22 @@ todo
  * [ ] 后台逻辑的编写
  * [ ] 前端静态页面的制作
 
+## 技术选型
+
+数据库
+
+* mysql
+
+后端
+
+* maven
+* Spring
+* SpringMVC
+* Mybatis
+
+前端
+
+* bootstrap
 
 ## 友情赞助
 
