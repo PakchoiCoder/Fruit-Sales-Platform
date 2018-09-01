@@ -6,7 +6,7 @@ Fruit-Sales-Platform 是一个开源的果蔬内容管理系统及销售平台�
 
 ## 项目背景
 
-最近在深入学习 JakartaEE 相关技术，在参考《阿里巴巴编程规范》、《SpringMVC+MyBatis开发》、《Maven实战》等书后，对 ssm 以及 maven 有了一定了解后，决定着手开发一个基于 CMS 的销售平台。
+最近在深入学习 JakartaEE 相关技术，在参考《阿里巴巴编程规范》、《SpringMVC+MyBatis开发》、《Maven实战》等书后，对 ssm 以及 maven 有了一定了解后，且参考其他 javaweb 项目后，决定自己着手开发一个基于 CMS 的销售平台。
 
 ## 项目计划
 
