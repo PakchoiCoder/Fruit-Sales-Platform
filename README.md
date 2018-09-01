@@ -25,16 +25,13 @@ todo
 
 数据库：mysql
 
+后端：Spring、SpringMVC、Mybatis
+
 前端：bootstrap
 
+仓库: maven
+
 版本工具：svn、git
-
-后端
-
-* maven
-* Spring
-* SpringMVC
-* Mybatis
 
 ## 友情赞助
 
